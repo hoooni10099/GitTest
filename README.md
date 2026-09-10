@@ -6,3 +6,4 @@ feature-conflict
 
 master 브랜치에서 직접 추가한 줄
 
+GitHub 웹에서 직접 추가한 줄
