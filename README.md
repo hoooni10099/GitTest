@@ -1,5 +1,6 @@
 # 나의 첫 프로젝트
 
-feature-test 브랜치에서 추가한 줄
+# feature-conflict 브랜치에서 수정한 제목입니다
 
 master 브랜치에서 직접 추가한 줄
+
